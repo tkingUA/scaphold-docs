@@ -201,7 +201,7 @@ var data = {
   "variables": {
     "input": {
       "id": "RmlsZTox",                 // File ID
-      "capitalCityId": "VXNlcjox"       // User ID
+      "ownerId": "VXNlcjox"       // User ID
     }
   }
 }
